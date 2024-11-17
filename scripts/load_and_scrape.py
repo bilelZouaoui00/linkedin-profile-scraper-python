@@ -87,7 +87,7 @@ def main():
         profiles = extract_profiles(driver)
 
         # Save profiles to a JSON file
-        with open('scraped_profiles.json', 'w') as file:
+        with open('data/scraped_profiles.json', 'w') as file:
             json.dump(profiles, file)
         print(f"Extracted {len(profiles)} profiles.")
         print(profiles)

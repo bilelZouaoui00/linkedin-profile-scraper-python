@@ -27,7 +27,7 @@ input(Fore.CYAN + "Press Enter after logging in...")
 
 # Save cookies to a file
 cookies = driver.get_cookies()
-with open('linkedin_cookies.json', 'w') as file:
+with open('data/linkedin_cookies.json', 'w') as file:
     json.dump(cookies, file)
 print(Fore.GREEN + "Session cookies saved successfully.")
 
