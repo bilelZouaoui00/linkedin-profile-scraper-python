@@ -38,8 +38,8 @@ linkedin-profile-scraper-python/
 
 ## Installation
 # Step 1: Clone the repository
-git clone https://github.com/bilelZouaoui00/linkedin-profile-scraper-python
-cd linkedin-profile-scraper-python
+1. git clone https://github.com/bilelZouaoui00/linkedin-profile-scraper-python
+2. cd linkedin-profile-scraper-python
 
 # Step 2: Create a virtual environment and activate it
 python -m venv venv
