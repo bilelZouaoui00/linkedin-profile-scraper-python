@@ -14,6 +14,7 @@
 - **JSON Output:** Stores scraped data in a JSON file (`scraped_profiles.json`).
 
 ## Project Structure
+```plaintext
 
 linkedin-profile-scraper-python/
 ├── scripts/               # Python scripts for scraping
@@ -27,7 +28,7 @@ linkedin-profile-scraper-python/
 ├── README.md              # Project description and instructions
 ├── requirements.txt       # Dependencies for the project
 └── venv/                  # Python virtual environment (ignored by Git)
-
+```
 
 # Setup
 ## Prerequisites
@@ -37,7 +38,7 @@ linkedin-profile-scraper-python/
 
 ## Installation
 # Step 1: Clone the repository
-git clone https://github.com/username/linkedin-profile-scraper-python.git
+git clone https://github.com/bilelZouaoui00/linkedin-profile-scraper-python
 cd linkedin-profile-scraper-python
 
 # Step 2: Create a virtual environment and activate it
